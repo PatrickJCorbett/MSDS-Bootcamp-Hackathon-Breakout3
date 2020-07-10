@@ -17,7 +17,8 @@ https://ourworldindata.org/grapher/total-confirmed-cases-of-covid-19-per-million
 
 #Step 4. Perform any cleaning needed (Done)
 
-#Step 5. First plot- Time series of log scale by country
+#Step 5. First plot- Time series of log scale by country (Done)
+#TODO: go back if there's time and add a few minor aesthetic updates
   #Step 5.1 Filter to the countries we need
   #Step 5.2 Convert to log scale
   #Step 5.3 Create time series of log scale in a line plot
